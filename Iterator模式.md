@@ -22,7 +22,7 @@ Iterator模式用于在数据集合中按照顺序遍历集合。
 
 ### Iterator模式的类图
 
-<img src="F:\GitHub\GOF\images\1572687793511.png" alt="1572687793511" style="zoom:80%;" />
+<img src="images\1572687793511.png" alt="1572687793511" style="zoom:80%;" />
 
 ### Java中的Iterator模式
 
@@ -82,7 +82,7 @@ Iterator模式用于在数据集合中按照顺序遍历集合。
 
   从下图可以看到有关于Iterator的继承结构
 
-  <img src="F:\GitHub\GOF\images\1572688225455.png" alt="1572688225455" style="zoom:60%;" />
+  <img src="images\1572688225455.png" alt="1572688225455" style="zoom:60%;" />
 
   在ArrayList中可以找到实现List接口的方法：
 
